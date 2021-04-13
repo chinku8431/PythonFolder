@@ -1,4 +1,4 @@
-def outer(idno,name):
+def outer(idno,name="khandai"):
     print("I am outer")
     print("Employee id no outer",idno)
     print("Employee name outer",name)
@@ -10,7 +10,7 @@ def outer(idno,name):
 
     inner(101,"Asim")
 
-outer(102,"kumar")
+outer(102)
 print("Thanks")
 
 
