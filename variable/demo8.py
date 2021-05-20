@@ -8,3 +8,4 @@ print(a,b)
 
 print("----------")
 print("%d\t%d"%(a,b))
+
