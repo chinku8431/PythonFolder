@@ -26,3 +26,5 @@ for x in l2:
 
 print("the value of l3: ",l3)
 
+
+
