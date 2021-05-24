@@ -12,6 +12,6 @@ print("dictionary is::",myDict)  # Doubt flow
 #  Anoteher way using two list
 myDictone={}
 myDictone["key1"]=[1,2]
-myDictone["key2"]=["Greeks","for","Geeks"]
+myDictone["key2"]=["Greeks","for","Geeks"] 
 
 print("Using two list line 17",myDictone)
