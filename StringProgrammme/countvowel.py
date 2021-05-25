@@ -1,6 +1,6 @@
 
 name=input("Enter any string")
-vowel="a","e","i","o","u" 
+vowel="a","e","i","o","u","A","E","I","O","U"
 count=0
 total=0
 
